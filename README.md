@@ -49,10 +49,9 @@ These constraints require a careful identification strategy based on within-dist
 
 ## Notes
 
-This repository is intended as a research portfolio artifact. Code and raw data are omitted due to confidentiality constraints.
+This repository is intended as a research portfolio artifact. Code and raw data can be available upon personal request.
 
 ---
 
 **Contact:**  
-Dung Nguyen  
-(LinkedIn / email available upon request)
+Dung Nguyen
