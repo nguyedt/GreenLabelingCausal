@@ -44,7 +44,7 @@ These constraints require a careful identification strategy based on within-dist
 
 ## Files
 
-- **`causal_research_memo.pdf`**  
+- **`causal_memo.pdf`**  
   Full research memo detailing the causal framework, estimation strategy, results, diagnostics, and limitations.
 
 ## Notes
