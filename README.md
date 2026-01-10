@@ -1,6 +1,6 @@
 # Causal Analysis of Green Delivery Slot Labeling
 
-This repository contains an applied causal research memo analyzing the impact of a real-time “Less CO₂” labeling mechanism on customer choice behavior and delivery efficiency for an online grocery platform in Singapore.
+This repository contains an applied causal research report analyzing the impact of a real-time “Less CO₂” labeling mechanism on customer choice behavior and delivery efficiency for an online grocery platform in Singapore. This report was paraphrased from my original report for conciseness and better readability.
 
 ## Project Overview
 
@@ -49,7 +49,7 @@ These constraints require a careful identification strategy based on within-dist
 
 ## Notes
 
-This repository is intended as a research portfolio artifact. Code and raw data can be available upon personal request.
+This repository is intended as a portfolio artifact. Code and raw data can be available upon personal request.
 
 ---
 
